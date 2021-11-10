@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KayesFahim
 - 👀 I’m interested in Android , Web
-- 🌱 I’m currently learning Django, ML, AI, React, C#
-- 💞️ I’m looking to collaborate on Android , WEb
+- 🌱 I’m currently learning Django, ML, AI, React, C#, Automation, 
+- 💞️ I’m looking to collaborate on Mobile Apllication , Web Application
 - 📫 How to reach me kayesthechill@gmail.com
 
 My Portfolio : https://kayes.xyz
