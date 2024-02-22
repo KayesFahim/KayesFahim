@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KayesFahim
-- 👀 I’m interested in Android, Web, and Flight API (Sabre, Galileo, Amadeus, Duffel, Ratehawk, Mistyfly, Tripjack)
+- 👋 Hi, I’m @KayesFahim [Travel technology + OTA Expert & OTA architect]
+- 👀 I’m interested in Android, Web, and Flight API (Sabre, Galileo, Amadeus, Duffel, Ratehawk, Mistyfly, Tripjack), NDC API (EK, SQ)
 - 🌱 I’m currently working on FastAPI, ML, AI, GO(gin-fiber), Rust(actix-web), Automation, Python, Java, PHP, Typescript, NodeJs(NestJs), SQL
 - 💞️ I’m looking to collaborate on Mobile applications, Web Application
 - 📫 How to reach me kayesthechill@gmail.com
